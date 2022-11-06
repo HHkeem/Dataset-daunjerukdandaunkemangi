@@ -1,4 +1,4 @@
-# Dataset-daunjerukdandaunkemangi
+# Dataset-daun jeruk dan daun kemangi_302_101
 Tugas dataset mata kuliah kecerdasan buatan
 # Dataset Daun Jeruk dan Daun Kemangi
 
