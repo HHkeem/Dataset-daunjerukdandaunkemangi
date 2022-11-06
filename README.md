@@ -14,4 +14,4 @@ Dataset adalah sebuah kumpulan data yang bersifat sebagai himpunan data yang ber
 ## Authors
 
 * Abdul Haqeem 202010370311302
-* 
+* Fadhilah Muhammad Maulana 20201037031101
